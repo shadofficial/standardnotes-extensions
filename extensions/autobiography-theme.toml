@@ -1,4 +1,4 @@
-id = "org.standardnotes.theme-autobiography"
+id = "org.notstandardnotes.theme-autobiography"
 npm = "sn-theme-autobiography"
 github = "sn-extensions/autobiography-theme"
 main = "dist/dist.css"

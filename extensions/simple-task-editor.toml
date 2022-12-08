@@ -1,4 +1,4 @@
-id = "org.standardnotes.simple-task-editor"
+id = "org.notstandardnotes.simple-task-editor"
 npm = "sn-simple-task-editor"
 github = "sn-extensions/simple-task-editor"
 main = "dist/index.html"

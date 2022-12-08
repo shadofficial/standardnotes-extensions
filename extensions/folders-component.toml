@@ -1,4 +1,4 @@
-id = "org.standardnotes.folders-component"
+id = "org.notstandardnotes.folders-component"
 npm = "sn-folders-component"
 github = "standardnotes/folders-component"
 main = "index.html"

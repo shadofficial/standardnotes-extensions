@@ -1,4 +1,4 @@
-id = "org.standardnotes.theme-futura"
+id = "org.notstandardnotes.theme-futura"
 npm = "sn-futura-theme"
 github = "sn-extensions/futura-theme"
 main = "dist/dist.css"

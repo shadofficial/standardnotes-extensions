@@ -1,4 +1,4 @@
-id = "org.standardnotes.theme-titanium"
+id = "org.notstandardnotes.theme-titanium"
 npm = "sn-theme-titanium"
 github = "sn-extensions/titanium-theme"
 main = "dist/dist.css"

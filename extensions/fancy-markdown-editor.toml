@@ -1,4 +1,4 @@
-id = "org.standardnotes.fancy-markdown-editor"
+id = "org.notstandardnotes.fancy-markdown-editor"
 npm = "sn-fancy-markdown-editor"
 github = "sn-extensions/math-editor"
 main = "index.html"

@@ -1,4 +1,4 @@
-id = "org.standardnotes.bold-editor"
+id = "org.notstandardnotes.bold-editor"
 npm = "sn-bold-editor"
 github = "standardnotes/bold-editor"
 main = "dist/index.html"

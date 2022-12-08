@@ -1,4 +1,4 @@
-id = "org.standardnotes.mfa-link"
+id = "org.notstandardnotes.mfa-link"
 npm = "sn-mfa-link"
 github = "sn-extensions/mfa-link"
 main = "dist/index.html"

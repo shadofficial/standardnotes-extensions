@@ -1,4 +1,4 @@
-id = "org.standardnotes.github-push"
+id = "org.notstandardnotes.github-push"
 npm = "sn-github-push"
 github = "sn-extensions/github-push"
 main = "index.html"

@@ -1,4 +1,4 @@
-id = "org.standardnotes.theme-dynamic"
+id = "org.notstandardnotes.theme-dynamic"
 npm = "sn-theme-dynamic"
 github = "sn-extensions/dynamic-theme"
 main = "dist/dist.css"

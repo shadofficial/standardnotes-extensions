@@ -1,4 +1,4 @@
-id = "org.standardnotes.token-vault"
+id = "org.notstandardnotes.token-vault"
 npm = "sn-token-vault"
 github = "sn-extensions/token-vault"
 main = "dist/index.html"

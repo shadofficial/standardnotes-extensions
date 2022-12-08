@@ -1,4 +1,4 @@
-id = "org.standardnotes.vim-editor"
+id = "org.notstandardnotes.vim-editor"
 npm = "sn-vim-editor"
 github = "sn-extensions/vim-editor"
 main = "index.html"

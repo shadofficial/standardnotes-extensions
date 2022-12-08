@@ -1,4 +1,4 @@
-id = "org.standardnotes.theme-focus"
+id = "org.notstandardnotes.theme-focus"
 npm = "sn-theme-focus"
 github = "sn-extensions/focus-theme"
 main = "dist/dist.css"
